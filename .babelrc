@@ -1,0 +1,23 @@
+{
+  "comments": false,
+  "compact": true,
+  "presets": [
+    "flow",
+    [
+      "env",
+      {
+        "targets": {
+          "browsers": [
+            "last 2 versions",
+            "ie >= 11"
+          ]
+        },
+        "useBuiltIns": true
+      }
+    ]
+  ],
+  "plugins": [
+    "syntax-object-rest-spread",
+    "transform-object-rest-spread"
+  ]
+}
