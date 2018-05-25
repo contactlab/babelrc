@@ -1,8 +1,7 @@
 {
   "name": "@contactlab/babelrc",
   "version": "2.0.0",
-  "description":
-    "Contactlab Frontend Team official (extendible) Babel configuration",
+  "description": "Contactlab Frontend Team official (extendible) Babel configuration",
   "main": ".babelrc",
   "scripts": {
     "test": "echo \"no tests required\""
@@ -11,7 +10,13 @@
     "type": "git",
     "url": "git+https://github.com/contactlab/babelrc.git"
   },
-  "keywords": ["clab", "contactlab", "babel", "babelrc", "configuration"],
+  "keywords": [
+    "clab",
+    "contactlab",
+    "babel",
+    "babelrc",
+    "configuration"
+  ],
   "author": "Contactlab Front-end Team",
   "license": "Apache-2.0",
   "bugs": {
@@ -24,7 +29,6 @@
     "babel-plugin-syntax-object-rest-spread": "6.13.0",
     "babel-plugin-transform-object-rest-spread": "6.26.0",
     "babel-preset-env": "1.6.1",
-    "babel-preset-flow": "6.23.0",
     "babel-register": "6.26.0"
   }
 }
