@@ -1,5 +1,7 @@
 # @contactlab/babelrc
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/contactlab/babelrc.svg)](https://greenkeeper.io/)
+
 Contactlab Frontend Team official (extendible) Babel configuration.
 
 ## Usage
