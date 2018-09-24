@@ -1,6 +1,6 @@
 {
   "name": "@contactlab/babelrc",
-  "version": "2.0.0-rc1",
+  "version": "2.0.0",
   "description": "Contactlab Frontend Team official (extendible) Babel configuration",
   "main": ".babelrc",
   "scripts": {
