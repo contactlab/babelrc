@@ -14,7 +14,8 @@
             "not < 0.5%"
           ]
         },
-        "useBuiltIns": true
+        "useBuiltIns": true,
+        "modules": false
       }
     ]
   ],
