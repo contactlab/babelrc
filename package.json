@@ -1,6 +1,6 @@
 {
   "name": "@contactlab/babelrc",
-  "version": "3.0.0",
+  "version": "4.0.0",
   "description": "Contactlab Frontend Team official (extendible) Babel configuration",
   "main": ".babelrc",
   "scripts": {
@@ -24,11 +24,11 @@
   },
   "homepage": "https://github.com/contactlab/babelrc#readme",
   "dependencies": {
-    "babel-cli": "6.26.0",
-    "babel-core": "6.26.3",
-    "babel-plugin-syntax-object-rest-spread": "6.13.0",
-    "babel-plugin-transform-object-rest-spread": "6.26.0",
-    "babel-preset-env": "1.7.0",
-    "babel-register": "6.26.0"
+    "@babel/cli": "7.1.2",
+    "@babel/core": "7.1.2",
+    "@babel/plugin-proposal-object-rest-spread": "7.0.0",
+    "@babel/plugin-syntax-object-rest-spread": "7.0.0",
+    "@babel/preset-env": "7.1.0",
+    "@babel/register": "7.0.0"
   }
 }

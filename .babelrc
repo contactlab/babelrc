@@ -14,10 +14,10 @@
             "not < 0.5%"
           ]
         },
-        "useBuiltIns": true,
+        "useBuiltIns": "entry",
         "modules": false
       }
     ]
   ],
-  "plugins": ["syntax-object-rest-spread", "transform-object-rest-spread"]
+  "plugins": ["@babel/syntax-object-rest-spread", "@babel/proposal-object-rest-spread"]
 }
