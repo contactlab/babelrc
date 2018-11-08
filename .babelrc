@@ -3,7 +3,7 @@
   "compact": true,
   "presets": [
     [
-      "env",
+      "@babel/preset-env",
       {
         "targets": {
           "browsers": [
