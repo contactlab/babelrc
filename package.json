@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/contactlab/babelrc#readme",
   "dependencies": {
-    "@babel/cli": "7.1.2",
+    "@babel/cli": "7.1.5",
     "@babel/core": "7.1.2",
     "@babel/plugin-proposal-object-rest-spread": "7.0.0",
     "@babel/plugin-syntax-object-rest-spread": "7.0.0",
