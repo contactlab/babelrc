@@ -1,14 +1,20 @@
 {
   "name": "@contactlab/babelrc",
   "version": "4.1.0",
-  "description": "Contactlab Frontend Team official (extendible) Babel configuration",
-  "main": ".babelrc",
-  "scripts": {
-    "test": "echo \"no tests required\""
-  },
+  "description": "Contactlab official (extendible) Babel configuration",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/contactlab/babelrc.git"
+  },
+  "author": "Contactlab",
+  "license": "Apache-2.0",
+  "homepage": "https://github.com/contactlab/babelrc#readme",
+  "bugs": {
+    "url": "https://github.com/contactlab/babelrc/issues"
+  },
+  "main": ".babelrc",
+  "scripts": {
+    "test": "echo \"no tests required\""
   },
   "keywords": [
     "clab",
@@ -17,12 +23,6 @@
     "babelrc",
     "configuration"
   ],
-  "author": "Contactlab Front-end Team",
-  "license": "Apache-2.0",
-  "bugs": {
-    "url": "https://github.com/contactlab/babelrc/issues"
-  },
-  "homepage": "https://github.com/contactlab/babelrc#readme",
   "dependencies": {
     "@babel/cli": "^7.2.3",
     "@babel/core": "^7.3.4",
