@@ -1,6 +1,6 @@
 # @contactlab/babelrc
 
-[![Greenkeeper badge](https://badges.greenkeeper.io/contactlab/babelrc.svg)](https://greenkeeper.io/)
+[![Build Status](https://clab-dev.visualstudio.com/OSS/_apis/build/status/contactlab.babelrc?branchName=master)](https://clab-dev.visualstudio.com/OSS/_build/latest?definitionId=30&branchName=master)
 
 Contactlab Frontend Team official (extendible) Babel configuration.
 
@@ -25,7 +25,7 @@ In **package.json**:
     "presets": ["..."],
     "plugins": ["..."]
   }
-  
+
   ...
 }
 ```
