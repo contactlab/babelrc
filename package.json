@@ -1,6 +1,6 @@
 {
   "name": "@contactlab/babelrc",
-  "version": "4.2.0",
+  "version": "4.2.1",
   "description": "Contactlab official (extendible) Babel configuration",
   "repository": {
     "type": "git",
@@ -13,11 +13,13 @@
     "url": "https://github.com/contactlab/babelrc/issues"
   },
   "main": ".babelrc",
+  "files": [
+    ".babelrc"
+  ],
   "scripts": {
     "test": "echo \"no tests required\""
   },
   "keywords": [
-    "clab",
     "contactlab",
     "babel",
     "babelrc",
