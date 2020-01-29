@@ -13,11 +13,13 @@
     "url": "https://github.com/contactlab/babelrc/issues"
   },
   "main": ".babelrc",
+  "files": [
+    ".babelrc"
+  ],
   "scripts": {
     "test": "echo \"no tests required\""
   },
   "keywords": [
-    "clab",
     "contactlab",
     "babel",
     "babelrc",
