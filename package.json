@@ -1,6 +1,6 @@
 {
   "name": "@contactlab/babelrc",
-  "version": "4.2.1",
+  "version": "5.0.0",
   "description": "Contactlab official (extendible) Babel configuration",
   "repository": {
     "type": "git",
@@ -26,11 +26,10 @@
     "configuration"
   ],
   "dependencies": {
-    "@babel/cli": "^7.2.3",
-    "@babel/core": "^7.3.4",
-    "@babel/plugin-proposal-object-rest-spread": "^7.3.4",
-    "@babel/plugin-syntax-object-rest-spread": "^7.2.0",
-    "@babel/preset-env": "^7.3.4",
+    "@babel/cli": "^7.0.0",
+    "@babel/core": "^7.0.0",
+    "@babel/plugin-proposal-object-rest-spread": "^7.0.0",
+    "@babel/preset-env": "^7.0.0",
     "@babel/register": "^7.0.0",
     "core-js": "^3.0.1"
   }
