@@ -1,6 +1,6 @@
 {
   "name": "@contactlab/babelrc",
-  "version": "5.0.0",
+  "version": "5.0.1",
   "description": "Contactlab official (extendible) Babel configuration",
   "repository": {
     "type": "git",
